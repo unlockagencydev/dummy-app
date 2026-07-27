@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DoseMate</string>
+    <string name="schedule">Schedule</string>
+    <string name="cabinet">Cabinet</string>
+    <string name="settings">Settings</string>
+    <string name="medicine_cabinet">Medicine Cabinet</string>
+    <string name="inventory_status">Inventory Status</string>
+    <string name="refill_log">Refill Log</string>
+    <string name="add_new">Add New</string>
+    <string name="take">Take</string>
+    <string name="snooze">Snooze</string>
+    <string name="too_early">Too early</string>
+    <string name="morning">Morning</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="evening">Evening</string>
+    <string name="notification_channel_name">Dose Reminders</string>
+    <string name="notification_channel_desc">Reminders to take your medication on schedule</string>
+    <string name="dose_reminder_title">Time for your dose</string>
+    <string name="settings_subtitle">Manage your health preferences and application experience.</string>
+    <string name="version_label">Version %1$s (Stable)</string>
+    <string name="made_with_care">Made with care for your health</string>
+</resources>

@@ -1,0 +1,1 @@
+# DoseMate ProGuard rules
